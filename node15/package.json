@@ -1,0 +1,18 @@
+{
+  "name": "node15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.7.2"
+  },
+  "devDependencies": {
+    "ejs": "^2.7.2",
+    "mongodb": "^2.2.33"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

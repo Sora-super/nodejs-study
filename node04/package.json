@@ -1,0 +1,15 @@
+{
+  "name": "node04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "common01.js",
+  "dependencies": {},
+  "devDependencies": {
+    "say-test-2019": "file:say-test-2019"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
