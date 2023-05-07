@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ejs": "^2.7.2"
+    "ejs": "^3.1.7"
   },
   "devDependencies": {
-    "ejs": "^2.7.2",
+    "ejs": "^3.1.7",
     "mongodb": "^2.2.33"
   },
   "scripts": {
